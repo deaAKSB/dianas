@@ -2,7 +2,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: wordpress-deployment
+  name: wordpress-deployment1
   namespace: wordpress-project
   labels:
     app: wordpress-app
