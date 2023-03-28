@@ -12,7 +12,7 @@ data:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mariadb-deployment
+  name: mariadb-deployment1
   namespace: wordpress-project
 spec:
   selector:
